@@ -1,0 +1,6 @@
+[theme]
+base = "dark"
+primaryColor = "#FF9933"  # Orange (adjust for accent)
+backgroundColor = "#262730"  # Dark gray
+secondaryBackgroundColor = "#373A40"  # Even darker gray
+textColor = "#FFFFFF"  # White
